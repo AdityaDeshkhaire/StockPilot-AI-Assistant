@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StockPilot — Agentic AI-Assisted Inventory Management
 
 MIS 6308 · Fall 2026 · Phase III prototype.
@@ -65,3 +66,6 @@ netlify/functions/agent.ts   Serverless proxy to the Anthropic Messages API
 ## Deployed link
 
 _Add the Netlify URL here and in the report's Project Prototype section._
+=======
+# StockPilot-AI-Assistant
+>>>>>>> 71e289b9a2a5ce1b8020fdab245edbb14ded037a
